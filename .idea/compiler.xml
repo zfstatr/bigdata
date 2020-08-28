@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bigdata" />
         <module name="flume" />
+        <module name="kafka" />
       </profile>
     </annotationProcessing>
   </component>
